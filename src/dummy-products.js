@@ -12,7 +12,7 @@ export const DUMMY_PRODUCTS = [
     title: 'Majestic Vintage Mocha Overcoat',
     price: 129.99,
     description:
-      'Channel timeless sophistication with this stunning mocha overcoat. Crafted for the discerning gentleman who appreciates the fine blend of vintage charm and modern elegance.',
+      'Channel timeless sophistication with this stunning mocha overcoat. Crafted for the discerning gentleman who appreciates the fine blend of vintage charm and modern elegance..',
   },
   {
     id: 'p2',
